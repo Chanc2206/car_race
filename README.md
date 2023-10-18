@@ -1,2 +1,3 @@
 # car_race
-this project is done using basics of c++
+This project is done using basics of c++
+using rand(),dos header file and many other
